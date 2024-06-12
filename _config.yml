@@ -1,6 +1,6 @@
 # Setup
 title: Azusa's Blog
-description: Azusa
+description: A place to store memory
 url: https://yidu0924.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Azusa
   card: summary
 logo: logo.png
 social:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Azusa
+  url: https://github.com/yidu0924/
+  email: yidu@umich.edu
