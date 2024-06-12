@@ -32,15 +32,15 @@ exclude:
 #   username: Azusa
 #   card: summary
 # logo: logo.png
-social:
-  name: Yi Du
-  links:
-    - https://github.com/yidu0924
-lang: en
+# social:
+#   name: Yi Du
+#   links:
+#     - https://github.com/yidu0924
+# lang: en
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# sass:
+#   sass_dir: _sass
+#   style: :compressed
 
 # Options
 
