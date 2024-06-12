@@ -31,13 +31,11 @@ exclude:
 # twitter:
 #   username: Azusa
 #   card: summary
-logo: logo.png
+# logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yi Du
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
+    - https://github.com/yidu0924
 lang: en
 
 sass:
